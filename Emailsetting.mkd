@@ -12,6 +12,6 @@
 
 # Notification List
 
-![image](email1.png)
+![image](Notification1.png)
  
-![image](email1.png)
+![image](Notification2.png)
