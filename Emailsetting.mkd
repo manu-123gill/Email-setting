@@ -1,4 +1,4 @@
-# OUT Going Email Setting
+# OUTGoing Email Setting
 ## First setting in Email Account List
 
 1.
