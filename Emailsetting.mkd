@@ -2,4 +2,4 @@
 First setting in Email Account List
 
 1.
-![image](email1.jpeg)
+![image](email1.png)
