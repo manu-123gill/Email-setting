@@ -3,8 +3,10 @@ First setting in Email Account List
 
 1.
 ![image](email1.png)
+
 2.
 ![image](Email2.png)
+
 3.
 ![image](email3.png)  
 
