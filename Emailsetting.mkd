@@ -1,5 +1,5 @@
-## OUT Going Email Setting
-First setting in Email Account List
+# OUT Going Email Setting
+## First setting in Email Account List
 
 1.
 ![image](email1.png)
@@ -10,5 +10,8 @@ First setting in Email Account List
 3.
 ![image](email3.png)  
 
-  
+# Notification List
+
+![image](email1.png)
  
+![image](email1.png)
